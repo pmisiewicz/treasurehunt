@@ -1,0 +1,363 @@
+[
+  {
+    "name": "Forest",
+    "colors": {
+      "submerged": "0x0B4037",
+      "low": "0x20633A",
+      "mid": "0x599143",
+      "high": "0x8B7355",
+      "rock": "0x6B7280",
+      "peak": "0xF0F8FF"
+    },
+    "heightStops": {
+      "lowStop": 0.35,
+      "midStop": 0.55,
+      "highStop": 0.75,
+      "rockStop": 0.85,
+      "peakStop": 0.99
+    }
+  },
+  {
+    "name": "Desert",
+    "colors": {
+      "submerged": "0x0B4037",
+      "low": "0xD4A574",
+      "mid": "0xE6C18A",
+      "high": "0xC9A86A",
+      "rock": "0x8B7355",
+      "peak": "0xDED8CE"
+    },
+    "heightStops": {
+      "lowStop": 0.30,
+      "midStop": 0.60,
+      "highStop": 0.80,
+      "rockStop": 0.90,
+      "peakStop": 0.98
+    }
+  },
+  {
+    "name": "Rocky",
+    "colors": {
+      "submerged": "0x1A3A3A",
+      "low": "0x4A5568",
+      "mid": "0x6B7280",
+      "high": "0x8B8680",
+      "rock": "0x5A5A5A",
+      "peak": "0xE8E8E8"
+    },
+    "heightStops": {
+      "lowStop": 0.25,
+      "midStop": 0.50,
+      "highStop": 0.70,
+      "rockStop": 0.85,
+      "peakStop": 0.95
+    }
+  },
+  {
+    "name": "Muddy",
+    "colors": {
+      "submerged": "0x0D2818",
+      "low": "0x4A3B2A",
+      "mid": "0x6B5D4F",
+      "high": "0x8B7355",
+      "rock": "0x6B6B5A",
+      "peak": "0xA8A8A0"
+    },
+    "heightStops": {
+      "lowStop": 0.40,
+      "midStop": 0.60,
+      "highStop": 0.75,
+      "rockStop": 0.88,
+      "peakStop": 0.97
+    }
+  },
+  {
+    "name": "Volcanic",
+    "colors": {
+      "submerged": "0x1A1A1A",
+      "low": "0x3A2A2A",
+      "mid": "0x4A3A3A",
+      "high": "0x6B4A4A",
+      "rock": "0x2A2A2A",
+      "peak": "0x8B6B6B"
+    },
+    "heightStops": {
+      "lowStop": 0.30,
+      "midStop": 0.55,
+      "highStop": 0.75,
+      "rockStop": 0.88,
+      "peakStop": 0.96
+    }
+  },
+  {
+    "name": "Tundra",
+    "colors": {
+      "submerged": "0x1A3A4A",
+      "low": "0x4A6A5A",
+      "mid": "0x7A8A7A",
+      "high": "0x9AAAA8",
+      "rock": "0x8A9AA8",
+      "peak": "0xE8F0F8"
+    },
+    "heightStops": {
+      "lowStop": 0.35,
+      "midStop": 0.58,
+      "highStop": 0.72,
+      "rockStop": 0.82,
+      "peakStop": 0.92
+    }
+  },
+  {
+    "name": "Savanna",
+    "colors": {
+      "submerged": "0x0B3037",
+      "low": "0x8B7A3A",
+      "mid": "0xA89A5A",
+      "high": "0xC9B68A",
+      "rock": "0x9B8B6A",
+      "peak": "0xD8D0C0"
+    },
+    "heightStops": {
+      "lowStop": 0.38,
+      "midStop": 0.62,
+      "highStop": 0.78,
+      "rockStop": 0.89,
+      "peakStop": 0.97
+    }
+  },
+  {
+    "name": "Alpine",
+    "colors": {
+      "submerged": "0x0B3A47",
+      "low": "0x2A5A3A",
+      "mid": "0x4A7A5A",
+      "high": "0x6A8A7A",
+      "rock": "0x7A8A8A",
+      "peak": "0xF0F8FF"
+    },
+    "heightStops": {
+      "lowStop": 0.30,
+      "midStop": 0.50,
+      "highStop": 0.68,
+      "rockStop": 0.80,
+      "peakStop": 0.90
+    }
+  },
+  {
+    "name": "Snowy Mountains",
+    "colors": {
+      "submerged": "0x0B3A47",
+      "low": "0x3A5A4A",
+      "mid": "0xC0D0E0",
+      "high": "0xD8E8F0",
+      "rock": "0xE0ECF8",
+      "peak": "0xF8FCFF"
+    },
+    "heightStops": {
+      "lowStop": 0.20,
+      "midStop": 0.35,
+      "highStop": 0.55,
+      "rockStop": 0.75,
+      "peakStop": 0.88
+    }
+  },
+  {
+    "name": "Mars",
+    "colors": {
+      "submerged": "0x2A1A1A",
+      "low": "0x8A4A3A",
+      "mid": "0xB85A3A",
+      "high": "0xC87850",
+      "rock": "0x9A5A4A",
+      "peak": "0xD89870"
+    },
+    "heightStops": {
+      "lowStop": 0.35,
+      "midStop": 0.58,
+      "highStop": 0.75,
+      "rockStop": 0.87,
+      "peakStop": 0.95
+    }
+  },
+  {
+    "name": "Mangrove Marsh",
+    "colors": {
+      "submerged": "0x04281a",
+      "low": "0x274d36",
+      "mid": "0x3f6a4a",
+      "high": "0x6f8e6b",
+      "rock": "0x6b5a4a",
+      "peak": "0xdfe8db"
+    },
+    "heightStops": {
+      "lowStop": 0.18,
+      "midStop": 0.35,
+      "highStop": 0.52,
+      "rockStop": 0.70,
+      "peakStop": 0.92
+    }
+  },
+  {
+    "name": "Coral Atoll",
+    "colors": {
+      "submerged": "0x04324c",
+      "low": "0xffcfa3",
+      "mid": "0xff8fb0",
+      "high": "0xff6f3f",
+      "rock": "0xd67a5a",
+      "peak": "0xfff7e6"
+    },
+    "heightStops": {
+      "lowStop": 0.10,
+      "midStop": 0.28,
+      "highStop": 0.45,
+      "rockStop": 0.65,
+      "peakStop": 0.90
+    }
+  },
+  {
+    "name": "Crystal Caverns",
+    "colors": {
+      "submerged": "0x0b1a1a",
+      "low": "0x3a6a6a",
+      "mid": "0x6ad8d8",
+      "high": "0x9fe8ff",
+      "rock": "0x7a7a88",
+      "peak": "0xe8fbff"
+    },
+    "heightStops": {
+      "lowStop": 0.22,
+      "midStop": 0.44,
+      "highStop": 0.66,
+      "rockStop": 0.82,
+      "peakStop": 0.96
+    }
+  },
+  {
+    "name": "Fungal Forest",
+    "colors": {
+      "submerged": "0x083034",
+      "low": "0x3a5742",
+      "mid": "0x7b4a9b",
+      "high": "0xbf7fcf",
+      "rock": "0x5a463a",
+      "peak": "0xfff0ff"
+    },
+    "heightStops": {
+      "lowStop": 0.30,
+      "midStop": 0.52,
+      "highStop": 0.72,
+      "rockStop": 0.88,
+      "peakStop": 0.98
+    }
+  },
+  {
+    "name": "Badlands",
+    "colors": {
+      "submerged": "0x1a2a2a",
+      "low": "0xdbb58a",
+      "mid": "0xd78a5a",
+      "high": "0xb97349",
+      "rock": "0x8a6b5a",
+      "peak": "0xe8d4c8"
+    },
+    "heightStops": {
+      "lowStop": 0.25,
+      "midStop": 0.50,
+      "highStop": 0.70,
+      "rockStop": 0.86,
+      "peakStop": 0.96
+    }
+  },
+  {
+    "name": "Glacial Fjords",
+    "colors": {
+      "submerged": "0x08223b",
+      "low": "0x3a6a84",
+      "mid": "0x7a9fd7",
+      "high": "0xbfdff7",
+      "rock": "0x8aa0b0",
+      "peak": "0xf8fcff"
+    },
+    "heightStops": {
+      "lowStop": 0.15,
+      "midStop": 0.34,
+      "highStop": 0.58,
+      "rockStop": 0.78,
+      "peakStop": 0.90
+    }
+  },
+  {
+    "name": "Bamboo Terrace",
+    "colors": {
+      "submerged": "0x042b1f",
+      "low": "0x3b7a46",
+      "mid": "0x62a86a",
+      "high": "0x88c68f",
+      "rock": "0x6b6b5a",
+      "peak": "0xdfeee0"
+    },
+    "heightStops": {
+      "lowStop": 0.28,
+      "midStop": 0.52,
+      "highStop": 0.70,
+      "rockStop": 0.85,
+      "peakStop": 0.96
+    }
+  },
+  {
+    "name": "Mirror Desert",
+    "colors": {
+      "submerged": "0x2a2020",
+      "low": "0xd9cbb8",
+      "mid": "0xf0e8d6",
+      "high": "0xfff8ef",
+      "rock": "0xb89a86",
+      "peak": "0xffffff"
+    },
+    "heightStops": {
+      "lowStop": 0.18,
+      "midStop": 0.40,
+      "highStop": 0.62,
+      "rockStop": 0.80,
+      "peakStop": 0.98
+    }
+  },
+  {
+    "name": "Luminous Grove",
+    "colors": {
+      "submerged": "0x05121a",
+      "low": "0x173e2d",
+      "mid": "0x3ad6a6",
+      "high": "0x8fffe0",
+      "rock": "0x6b5f6a",
+      "peak": "0xcfffe8"
+    },
+    "heightStops": {
+      "lowStop": 0.32,
+      "midStop": 0.56,
+      "highStop": 0.74,
+      "rockStop": 0.88,
+      "peakStop": 0.96
+    }
+  },
+  {
+    "name": "Salt Flats",
+    "colors": {
+      "submerged": "0x0f2a2a",
+      "low": "0xe6e6e2",
+      "mid": "0xf7f7f5",
+      "high": "0xffffff",
+      "rock": "0xcfcfcf",
+      "peak": "0xffffff"
+    },
+    "heightStops": {
+      "lowStop": 0.05,
+      "midStop": 0.12,
+      "highStop": 0.25,
+      "rockStop": 0.45,
+      "peakStop": 0.80
+    }
+  }
+]
+
